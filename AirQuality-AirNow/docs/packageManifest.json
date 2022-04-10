@@ -3,5 +3,14 @@
   "author": "cSteele, Christopher Bruns",
   "version": "2.0.0",
   "minimumHEVersion": "0.0",
-  "dateReleased": "2022-03-25"
+  "dateReleased": "2022-03-25",
+  "drivers": [
+    {
+      "id": "4abb6130-6ff4-4f0d-9d4b-3368f9b7f1b1",
+      "name": "Air Quality from AirNow",
+      "namespace": "csteele",
+      "location": "https://raw.githubusercontent.com/cmbruns/hubitat/main/AirQuality-AirNow/AirQuality-AirNow.groovy",
+      "required": false
+    }
+  ]
 }
